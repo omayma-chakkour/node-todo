@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/omaymachakkour/test-az400/_apis/build/status%2Fomayma-chakkour.node-todo?branchName=master)](https://dev.azure.com/omaymachakkour/test-az400/_build/latest?definitionId=5&branchName=master)
 # Node Todo App
 
 A Node app built with MongoDB and Angular. For demonstration purposes and a tutorial.
